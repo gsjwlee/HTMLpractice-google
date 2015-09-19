@@ -91,7 +91,7 @@ a:hover {
 #body {
     display: block;
     position: relative;
-    min-height: 400px;
+    min-height: 100vh;
 }
 #g_apps {
     background-image: url("https://docs.google.com/drawings/d/1Yy0vs1igTFZcacNLBC5dBQUfxESKh8mp34sBzoTWLIU/pub?w=22&amp;h=22");    
